@@ -2,22 +2,16 @@
   "updatedAt": "2026-02-25",
   "items": [
     {
-      "version": "0.A250226",
+      "version": "0.A200226",
       "date": "2026-02-25",
-      "title": "Alpha 250226",
+      "title": "Alpha 200226",
       "body": "🔄️ | Complete visual overhaul.\n✅ | Added a pause menu.\n✅ | Added a system for setting an NPCs name and role on first encounter.\n✅ | Added a standalone .exe to launch the game.\n✅ | Added a logging system using logs.txt for the .exe version.\n✅ | Added a top bar displaying player statistics."
-    },
-    {
-      "version": "0.A250226",
-      "date": "2026-02-25",
-      "title": "Alpha 250226",
-      "body": "• Added main menu\n• Added audio categories\n• Fixed hover SFX"
     },
     {
       "version": "0.A110925",
       "date": "2025-09-11",
       "title": "Alpha 110925",
-      "body": "• New project"
+      "body": "🔄 Internal interaction page system overhaul.\n🔄 Affection now reduces corruption difficulty. Higher Affection makes corruption easier.\n🔄 Talk interactions now grant limited affection per corruption level.\n🔄 Replacement of the LawsCorruption system with CityCorruption, blocking interactions when the NPC is outside and CityCorruption has not reached a required threshold.\n✅ Added refresh in dialog pages.\n✅ Several small changes to make the game more enjoyable and less grindy.\n✅ Added the story tracking system.\n✅ Added stripper scenes to the strip club.\n🔄 Removed the daily limit on meditation.\n✅ Added maximum energy increase via the Fitness attribute every 20 points.\n🔄 Minor bug fixes.\n✅ Added affection gain during sexual interactions.\n✅ Added small details.\n🔄 Main menu UI changes and multiple menu updates.\n✅ Added Auto-Save system.\n✅ Added interaction images for NPC Principal.\n🔄 Corruption system rework.\n✅ Added interaction images for NPC Classmate 1.\n✅ Added interaction images for NPC Classmate 3.\n✅ Added Cheat Menu.\n🔄 Cheat Menu rework.\n✅ Added Anti-Cheat system.\n✅ Added interaction images for NPC Mayor and Classmate 2.\n✅ Added the voting system at City Hall.\n✅ Added story content with Dealer W.\n🔄 Reworked The Pit spectator system.\n✅ Added the Gift system.\n🔄 Combat system rework.\n✅ Added Medkit purchase and hospital healing.\n🔄 Inventory system rework.\n✅ Added The Pit area, scoreboard, betting and combat systems.\n✅ Added interaction images for NPC BestFriend.\n❌ Removed the Gift system.\n✅ Re-added the Gift system.\n✅ Added dialogues for remaining NPCs.\n✅ Added drug dealing zones.\n✅ Added interaction images for HousemateFemale and Landlady.\n🔄 Redesigned the StoryCaption.\n✅ Added drug dealing system with multiple drugs, areas and risk chances.\n✅ Added Police and Hospital zones.\n✅ Added drug purchasing system in the TrapHouse.\n🔄 Added item sale descriptions.\n✅ Initialized interaction pages for all NPCs.\n✅ Added interaction menu images for HousemateFemale and Landlady.\n✅ Added TV to LivingRoom.\n✅ Added Sexshop NPC and new zones.\n✅ Added interaction pages for all current NPCs.\n🔄 Disabled certain interactions for non-trans or non-futa male NPCs.\n✅ Added email warning messages.\n✅ Added final College and CityHall areas.\n✅ Placed NPCs in their zones.\n🔄 Dialogue text and aesthetic changes.\n🛠 Project creation phase including core systems, locations, mini-games, NPC interactions, stats, shops and early story implementation."
     }
   ]
 }
