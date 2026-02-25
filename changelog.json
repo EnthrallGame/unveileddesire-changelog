@@ -5,6 +5,12 @@
       "version": "0.A250226",
       "date": "2026-02-25",
       "title": "Alpha 250226",
+      "body": "🔄️ | Complete visual overhaul.\n✅ | Added a pause menu.\n✅ | Added a system for setting an NPCs name and role on first encounter.\n✅ | Added a standalone .exe to launch the game.\n✅ | Added a logging system using logs.txt for the .exe version.\n✅ | Added a top bar displaying player statistics."
+    },
+    {
+      "version": "0.A250226",
+      "date": "2026-02-25",
+      "title": "Alpha 250226",
       "body": "• Added main menu\n• Added audio categories\n• Fixed hover SFX"
     },
     {
