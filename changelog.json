@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-02-25",
+  "updatedAt": "2026-03-28",
   "items": [
     {
       "version": "0.A260220",
-      "date": "WIP",
+      "date": "2026-03-28",
       "title": "Alpha 260220",
-      "body": "🔄️ | Complete visual overhaul.\n✅ | Added a pause menu.\n✅ | Added a system for setting an NPCs name and role on first encounter.\n✅ | Added a standalone .exe to launch the game.\n✅ | Added a logging system using logs.txt for the .exe version.\n✅ | Added a top bar displaying player statistics."
+      "body": "✅ | Added the Principal story.\n✅ | Added the Principal and Mayor house.\n✅ | Added a quick explanatory tutorial system at the start of each new game.\n✅ | Added the Mayor story.\n🔄️ | Rework of the voting system for increasing the city's corruption.\n✅ | Added the Countryside, Forest, and Beach locations, accessible only by vehicle.\n✅ | Added more than 677 videos.\n✅ | Added apartment locations for all classmates and the best friend.\n🔄️ | Bug fixes when export and import saves.\n✅ | Added the Classmate 2 story.\n✅ | Added the Classmate 3 story.\n🔄️ | Bug fixes and refinement of certain systems.\n✅ | Added the Classmate 1 story.\n🔄️ | Actress change for Classmate 2.\n✅ | Added the Bestfriend story.\n✅ | Added the Landlady story.\n✅ | Added the Housemate Female story.\n✅ | Added a Characters category in Storys Menu.\n🔄️ | Changed the Talk system. Now, to continue corrupting and progress the story, you must talk to the NPC.\n✅ | Added a dynamic corruption mini-game.\n✅ | Added several achievements.\n✅ | Added the contact system in the phone.\n🔄️ | Multiple visual changes.\n✅ | Added various micro functions.\n🔄️ | Fixed multiple bugs.\n✅ | Added Phone system, with inventory, taxi, email, and parameters.\n✅ | Added Save system in HubMenu.\n✅ | Added HubMenu with Story, Cheats, Options, Achievements and Support.\n🔄️ | Update menu and sound for Deal and Fight System.\n✅ | Added a different sound design.\n✅ | Added a main menu.\n🔄️ | Complete visual overhaul.\n✅ | Added a pause menu.\n✅ | Added a system for setting an NPCs name and role on first encounter.\n✅ | Added a standalone .exe to launch the game.\n✅ | Added a logging system using logs.txt for the .exe version.\n✅ | Added a top bar displaying player statistics."
     },
     {
       "version": "0.A250911",
