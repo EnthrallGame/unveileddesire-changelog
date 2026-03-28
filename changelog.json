@@ -2,6 +2,12 @@
   "updatedAt": "2026-03-28",
   "items": [
     {
+      "version": "0.B260328",
+      "date": "2026-03-28",
+      "title": "Beta 260328",
+      "body": "Public Beta Version Officially Released!"
+    },
+    {
       "version": "0.A260220",
       "date": "2026-03-28",
       "title": "Alpha 260220",
