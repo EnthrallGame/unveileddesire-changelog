@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-03-28",
+  "updatedAt": "2026-04-18",
   "items": [
+    {
+      "version": "0.B260404",
+      "date": "2026-04-18",
+      "title": "Beta 260404",
+      "body": "🎉 New Public Beta Version Released! 🎉\n\n▶️ Discord link : https://discord.com/invite/jSTjBKSjvm \n\n▶️ Patreon : https://www.patreon.com/cw/EnthrallGame \n\n▶️ SubscribeStar.adult : https://subscribestar.adult/EnthrallGame \n\n🔄️ | Improved game responsiveness\n✅ | Added emojis to bottom bar buttons\n🔄️ | Improved the Pair Match mini-game in the Casino\n🔄️ | Fixed various minor bugs\n🔄️ | Migration to a new framework for the launcher file\n✅ | Added the Toilet location in the Park.\n✅ | Added the GloryHole in Toilet, with the possibility for the player to use a Psychic Power orb to give an order to the NPC.\n🔄️ | Fixed bugs blocking story progression on certain characters.\n✅ | Added an option to change the in-game font size. (This is still being tested, so if there are any bugs or malfunctions, please report them.)\n🔄️ | Reduced drug (weed) purchase price ($80 -> $50). Drug (weed) selling less lucrative.\n✅ | Added an option exclusively for the .exe version, Window Mode which allows switching between fullscreen, windowed, or maximized windowed.\n🔄️ | Moved the meditation mini-game (renamed to Pair Match) to the casino (allows you to earn money)\n✅ | Added the Casino location in the RedLight District\n🔄️ | Changed some text in the character Stories menu\n🔄️ | Improved the work mini-game to make it simpler, and added a tutorial via a button\n🔄️ | Improved the drug selling mini-game to make it simpler\n✅ | Now when a character has just been corrupted, the player must sleep before corrupting the same character again, preventing the player from corrupting a character all at once in a row.\n✅ | Added a system to skip mini-games in the game settings\n🔄️ | Bug fix in the drug selling system\n❌ | Complete removal of the corruption mini-game system\n❌ | Removal of the affection system\n🔄️ | Changed how Psychic Power works, via orbs used for corruption interactions that reset each sleep\n🔄️ | Changed the combat system, fewer choices, but the Fitness variable now has much more impact during fights\n🔄️ | Reduced taxi price from $50 to $10\n🔄️ | Reduced the cost of healing from $50 to $25\n🔄️ | Improved and added information to the first tutorial when starting a new game\n🔄️ | Fixed the word Heal to Health."
+    },
     {
       "version": "0.B260328",
       "date": "2026-03-28",
       "title": "New Patch - v0.B260328",
-      "body": "Sorry about that, I rushed an update to rework the meditation system mini-game and forgot to include the required files. My apologies again, here is the patch: https://pixeldrain.com/u/WNGcB6Lp \n\n🔄️ | patch mini-game and add img\n❌ | Delete anti-cheat"
+      "body": "Sorry about that, I rushed an update to rework the meditation system mini-game and forgot to include the required files. My apologies again. \n\n🔄️ | patch mini-game and add img\n❌ | Delete anti-cheat"
     },
     {
       "version": "0.B260328",
