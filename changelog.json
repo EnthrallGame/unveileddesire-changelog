@@ -2,6 +2,12 @@
   "updatedAt": "2026-04-18",
   "items": [
     {
+      "version": "0.B260710",
+      "date": "2026-07-19",
+      "title": "Beta 260710",
+      "body": "🎉 New Public Beta Version Released! 🎉\n\n▶️ Discord link : https://discord.com/invite/jSTjBKSjvm \n\n▶️ Patreon : https://www.patreon.com/cw/EnthrallGame \n\n▶️ SubscribeStar.adult : https://subscribestar.adult/EnthrallGame \n\n🔄️ | Changes to the chapters for the Landlady.\n🔄️ | Fixed the auto-save bug that was not triggering correctly each time the player sleeps.\n✅ | Added Coke and Meth drugs to the TrapHouse, along with a light design overhaul of the selling interface.\n🔄️ | Changed all images and videos for Landlady to the new actress Ava Addams.\n✅ | Added the Gallery in Main Menu. Once you've viewed an image or video, it will remain unlocked in the Gallery regardless of which save you're playing.\n✅ | Added chapter 6, with a connection to the mayor character.\n🔄️ | Changed title for chapter 3.\n✅ | Added the Building location in the financial district, accessible by progressing in the main story, chapter 6.\n🔄️ | Renaming files to make the game compatible with Linux.\n✅ | Start of chapter 6, accessible early to gain access to the mayor.\n✅ | Chapter 4 complete.\n✅ | When you are a professor, you now have different actions available in your personal office at the University.\n🔄️ | Changes to the chapters for the Principal.\n🔄️ | Changes to the chapters for the Classmate 3.\n🔄️ | Changes to the chapters for the Classmate 2.\n✅ | Added the encyclopedia (button visible between the phone button and the menu button).\n🔄️ | Changes to the chapters for the Bestfriend.\n🔄️ | Different texts can be read in Classmate April's chapters, for example, which differ in chapter 1 depending on whether you have a car or not, and in chapter 3 depending on whether you have reached chapter 5 with your Bestfriend Amy. (This does not impact the story in any way, it is purely for story consistency, but you will find other adaptive texts with other characters).\n🔄️ | Changes to the chapters for the Classmate 1.\n🔄️ | Improved game responsiveness.\n✅ | Added a description in the tooltips.\n✅ | Added the wikiterms system, which automatically underlines text and when the player hovers over it, displays a tooltip with a description, information, etc.\n🔄️ | Changes to the chapters for the Female Housemate.\n✅ | Added the ability to click on institution names in the Corruption tooltip."
+    },
+    {
       "version": "0.B260404",
       "date": "2026-04-18",
       "title": "Beta 260404",
